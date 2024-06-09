@@ -57,9 +57,9 @@ example(of: "subscribe") {
   
   let observable = Observable.of(one, two, three)
   
-  //  observable.subscribe { event in
-  //    print(event)
-  //  }
+//    observable.subscribe { event in
+//      print(event)
+//    }
   
   //  observable.subscribe { event in
   //    if let element = event.element {
