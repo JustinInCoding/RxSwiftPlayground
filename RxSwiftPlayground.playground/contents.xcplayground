@@ -7,5 +7,7 @@
         <page name='Subjects-Challenge-2'/>
         <page name='FilteringOperations'/>
         <page name='FilteringOperations-Challenge'/>
+        <page name='TransformingOperations'/>
+        <page name='TransformingOperations-Challenge'/>
     </pages>
 </playground>
