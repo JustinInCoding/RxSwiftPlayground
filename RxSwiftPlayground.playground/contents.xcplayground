@@ -10,5 +10,6 @@
         <page name='TransformingOperations'/>
         <page name='TransformingOperations-Challenge'/>
         <page name='CombiningOperations'/>
+        <page name='CombiningOperations-Challenge'/>
     </pages>
 </playground>
