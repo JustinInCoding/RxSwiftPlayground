@@ -9,5 +9,6 @@
         <page name='FilteringOperations-Challenge'/>
         <page name='TransformingOperations'/>
         <page name='TransformingOperations-Challenge'/>
+        <page name='CombiningOperations'/>
     </pages>
 </playground>

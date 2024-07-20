@@ -131,7 +131,7 @@ example(of: "never - challenge") {
         }
       )
       .disposed(by: disposeBag)
-      }
+}
 
 example(of: "never - challenge - 2") {
   let disposeBag = DisposeBag()
