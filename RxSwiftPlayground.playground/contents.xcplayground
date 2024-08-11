@@ -11,5 +11,10 @@
         <page name='TransformingOperations-Challenge'/>
         <page name='CombiningOperations'/>
         <page name='CombiningOperations-Challenge'/>
+        <page name='TimeBased-Buffer'/>
+        <page name='TimeBased-Delay'/>
+        <page name='TimeBased-Replay'/>
+        <page name='TimeBased-Timeout'/>
+        <page name='TimeBased-Window'/>
     </pages>
 </playground>
